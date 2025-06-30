@@ -21,7 +21,7 @@
       const [usuarios, setUsuarios] = React.useState([]);
 
       const cargarUsuarios = () => {
-        fetch("https://tusuario.pythonanywhere.com/api/usuarios") // Cambia esta URL por la tuya
+        fetch("https://echxvx2610.pythonanywhere.com/api/usuarios") // Cambia esta URL por la tuya
           .then(res => res.json())
           .then(data => setUsuarios(data))
           .catch(err => console.error("Error al cargar usuarios:", err));

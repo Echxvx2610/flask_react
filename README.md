@@ -1,4 +1,4 @@
-## Divicion de frontend 
+## Division de frontend 
 ### Backend con python
 subido en pythonanywhere
 https://echxvx2610.pythonanywhere.com/api/usuarios
